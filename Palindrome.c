@@ -2,7 +2,8 @@
 void palindrome()
 //int main()    
 {    
-int n,r,sum=0,temp;    
+int n,r,sum=0,temp;   
+printf("------------------------------------------------\n");
 printf("\nenter the number to check Palindrome ");    
 scanf("%d",&n);    
 temp=n;    
